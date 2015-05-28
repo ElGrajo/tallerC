@@ -14,7 +14,7 @@
 //Se declara fuera para que todos la puedan utilizar
 //es una variable global
 struct Coche {
-	char matricula[7];
+	char matricula[70];
 	char marca[50];
 	char modelo[50];
 	int cv;
